@@ -1,0 +1,22 @@
+{
+    "dbconf_dev":{
+        "driver":"mysql",
+        "dbhost":"localhost",
+        "dbuser":"prouf2",
+        "dbpass":"linuxlinux",
+        "dbname":"prouf2",
+          "web":"/",
+          "root":"/"
+    },
+    "dbconf_pro":{
+                "driver":"mysql",
+                "dbhost":"AlAn.cesnuria.com",
+                "dbname":"AlAn_prouf2",
+                "dbuser":"AlAn_prouf2",
+                "dbpass":"linuxlinux",
+                "web":"/M7/prouf2/",
+                "root":"/M7/prouf2/"
+                
+            }
+}
+    
